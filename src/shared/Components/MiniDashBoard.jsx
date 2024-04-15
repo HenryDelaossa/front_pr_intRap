@@ -2,7 +2,6 @@ import { Box, Grid, Typography } from "@mui/material";
 import { useState, useEffect } from "react";
 const MiniDashBoard = ({ data }) => {
   const [renderData, setRenderData] = useState(null);
-  console.log({ data });
   useEffect(() => {
     setRenderData(data);
   }, [data]);

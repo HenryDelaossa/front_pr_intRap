@@ -18,7 +18,6 @@ const headersTable = [
 const useMicuentaPage = () => {
   const { usuario } = useRouteLoaderData(ROUTE_IDS.LOGGEDUSER);
   // hooks
-  console.log({ usuario });
   const [selectedMaterias, setSelectedMaterias] = useState(usuario?.materias);
   const [materias, setMaterias] = useState([]);
   const [totalCreditos, setTotalCreditos] = useState([]);
