@@ -1,0 +1,92 @@
+[
+    {
+        "id": "1",
+        "nombre": "Cálculo I",
+        "profesor": {
+            "id": "1",
+            "nombre": "Henry De la ossa"
+        },
+        "creditos": 3
+    },
+    {
+        "id": "2",
+        "nombre": "Álgebra Lineal",
+        "profesor": {
+            "id": "2",
+            "nombre": "María González"
+        },
+        "creditos": 3
+    },
+    {
+        "id": "3",
+        "nombre": "Programación I",
+        "profesor": {
+            "id": "3",
+            "nombre": "Juan Pérez"
+        },
+        "creditos": 3
+    },
+    {
+        "id": "4",
+        "nombre": "Física I",
+        "profesor": {
+            "id": "4",
+            "nombre": "Laura Ramírez"
+        },
+        "creditos": 3
+    },
+    {
+        "id": "5",
+        "nombre": "Química General",
+        "profesor": {
+            "id": "5",
+            "nombre": "Carlos Martínez"
+        },
+        "creditos": 3
+    },
+    {
+        "id": "6",
+        "nombre": "Cálculo II",
+        "profesor": {
+            "id": "1",
+            "nombre": "Henry De la ossa"
+        },
+        "creditos": 3
+    },
+    {
+        "id": "7",
+        "nombre": "Álgebra Abstracta",
+        "profesor": {
+            "id": "2",
+            "nombre": "María González"
+        },
+        "creditos": 3
+    },
+    {
+        "id": "8",
+        "nombre": "Programación II",
+        "profesor": {
+            "id": "3",
+            "nombre": "Juan Pérez"
+        },
+        "creditos": 3
+    },
+    {
+        "id": "9",
+        "nombre": "Física II",
+        "profesor": {
+            "id": "4",
+            "nombre": "Laura Ramírez"
+        },
+        "creditos": 3
+    },
+    {
+        "id": "10",
+        "nombre": "Química Orgánica",
+        "profesor": {
+            "id": "5",
+            "nombre": "Carlos Martínez"
+        },
+        "creditos": 3
+    }
+]
